@@ -1,0 +1,9 @@
+adk-env/
+.venv/
+.env
+__pycache__/
+*.pyc
+adk_web.log
+adk_web_err.log
+*.db
+.adk/
